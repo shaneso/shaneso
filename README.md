@@ -4,7 +4,7 @@ I'm Shane, and my aspiration is to help people live better lives through innovat
 
 Currently, I'm an undergrad student with a concentration in Computer Science 🖥️
 
-My main interests include app development, biomedical engineering, and predictive analysis algorithms. I especially like making software to help healthcare professionals and patients alike track, measure, and forecast health statistics for optimized treatment plans.
+My main interests include app development, biomedical engineering, and predictive analysis algorithms. I especially like making software to help healthcare professionals and patients track, measure, and forecast health statistics for optimized treatment plans.
 
 Some hobbies of mine include reading classic literature and poetry, enjoying the outdoors with friends, cooking with molecular gastronomy, studying math, and playing classical piano pieces.
 
