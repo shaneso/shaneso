@@ -11,8 +11,8 @@ Currently, I'm studying Computer Science and Mathematics at Simon Fraser Univers
 
 Find me on
 [LinkedIn](https://www.linkedin.com/in/shaneso),
-[X](https://x.com/shanehso),
-[GitHub](https://github.com/shaneso),
+[X](https://x.com/shanehso), my
+[portfolio](https://www.shaneso.dev),
 or contact me by [email](mailto:shane_liam_so@sfu.ca).
       </p>
     </td>
