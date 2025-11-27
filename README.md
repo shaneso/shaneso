@@ -5,7 +5,7 @@
     </td>
     <td style="width:50%">
       <p>
-        I'm a research engineer, and enjoy building powerful substrates to advance scientific invention. I am passionate about pioneering robotic systems, spaceflight, and physics-based computing.
+        I'm an engineer who enjoys building robust software and powerful substrates to advance scientific invention. I am passionate about pioneering robotic systems, spaceflight, and physics-based computing.
 
 Currently, I'm studying Computer Science and Mathematics at Simon Fraser University through the BSc Data Science program.
 
