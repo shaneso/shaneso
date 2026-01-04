@@ -6,7 +6,7 @@
     <td style="width:50%">
       <h3>About</h3>
       <p>
-        I enjoy building intelligent machines—from silicon, circuits, and actuators to the math, algorithms, and software that govern them.
+        I enjoy building intelligent machines—from processors, circuits, and actuators to the math, algorithms, and software that govern them.
         I'm currently studying computer science and mathematics at Simon Fraser University.
       </p>
       <p>
