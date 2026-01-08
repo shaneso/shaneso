@@ -10,15 +10,11 @@
         I'm currently studying computer science and mathematics at Simon Fraser University.
       </p>
       <p>
-        Find me on
-        <a href="https://www.linkedin.com/in/shaneso">LinkedIn</a>,
-        <a href="https://x.com/shanehso">X</a>,
-        my <a href="https://www.shaneso.dev">portfolio</a>,
-        or contact me by
-        <a href="mailto:shane_liam_so@sfu.ca">email</a>.
-      </p>
-      <p>
-        To learn more about my work, please see my <a href="https://www.shaneso.dev/shane_so_resume.pdf">resume</a>.
+        Contact: shane_liam_so [at] sfu [dot] ca<br>
+        <a href="https://www.shaneso.dev">Portfolio</a> / 
+        <a href="https://www.linkedin.com/in/shaneso">LinkedIn</a> / 
+        <a href="https://x.com/shanehso">X</a> / 
+        <a href="https://www.shaneso.dev/shane_so_resume.pdf">CV</a>
       </p>
     </td>
   </tr>
