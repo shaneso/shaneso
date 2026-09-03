@@ -11558,7 +11558,7 @@
         ]
       },
       "locked": false,
-      "visible": true,
+      "visible": false,
       "zIndex": 3,
       "instanceId": "widget_1788418805588_2"
     }
