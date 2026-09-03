@@ -13,7 +13,7 @@
         "height": 312
       },
       "config": {
-        "accentColor": "#bd93f9",
+        "accentColor": "#60a5fa",
         "cols": 150,
         "rows": 75,
         "asciiText": [
@@ -11514,7 +11514,20 @@
       },
       "config": {
         "accentColor": "#bd93f9",
-        "hideBorder": false
+        "hideBorder": false,
+        "showLoc": false,
+        "customNow": "CS @ Simon Fraser University",
+        "customAlso": "Systems software engineer",
+        "showAlso": false,
+        "customLangs": "C, C++, Python, Java, TypeScript",
+        "showBackend": true,
+        "showFrontend": true,
+        "lockAspectRatio": false,
+        "customBackend": "POSIX, Linux, ROS, Docker, GNU, Valgrind, CMake",
+        "customFrontend": "React, Expo, Next, Tailwind, Vercel, Astro",
+        "infoHost": "",
+        "customBullet1": "Engineered drone software in Docker-contained ROS nodes",
+        "customBullet2": "Built a DFSM that reduced program size by 51% under 33 KB"
       },
       "locked": false,
       "visible": true,
@@ -11555,7 +11568,7 @@
     "textColor": "#e6edf3",
     "accentColor": "#ffffff",
     "borderColor": "#30363d",
-    "fontFamily": "'JetBrains Mono', monospace",
+    "fontFamily": "JetBrains Mono",
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
